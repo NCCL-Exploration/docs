@@ -2,7 +2,7 @@
 
 This repository contains documentation and implementations for three major projects:
 
-## [CRAC Documentation](crac/docs/)
+## [CRAC Documentation](crac/CONTRIBUTOR_DOCUMENTATION.md)
 CRAC (Checkpoint/Restart As a C library) provides checkpoint/restart functionality for HPC applications.
 
 ## [DMTCP Documentation](dmtcp/)
