@@ -1,6 +1,9 @@
 # NCCL Experiment Repository
 
-This repository contains documentation and implementations for two major projects:
+This repository contains documentation and implementations for three major projects:
+
+## [CRAC Documentation](crac/docs/)
+CRAC (Checkpoint/Restart As a C library) provides checkpoint/restart functionality for HPC applications.
 
 ## [DMTCP Documentation](dmtcp/docs/)
 DMTCP (Distributed MultiThreaded Checkpointing) provides transparent checkpoint/restart functionality for distributed applications.
