@@ -5,7 +5,7 @@ This repository contains documentation and implementations for three major proje
 ## [CRAC Documentation](crac/docs/)
 CRAC (Checkpoint/Restart As a C library) provides checkpoint/restart functionality for HPC applications.
 
-## [DMTCP Documentation](dmtcp/docs/)
+## [DMTCP Documentation](dmtcp/)
 DMTCP (Distributed MultiThreaded Checkpointing) provides transparent checkpoint/restart functionality for distributed applications.
 
 ## [MANA Documentation](mana/docs/)
